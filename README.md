@@ -1,2 +1,2 @@
-# Convolutional-Neural-Network---Keras
-Binary Image Classification w/ Deep Learning in Keras
+# Convolutional Neural Network
+## Binary Image Classification w/ Deep Learning in Keras
